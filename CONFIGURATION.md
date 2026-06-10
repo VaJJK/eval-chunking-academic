@@ -46,11 +46,11 @@ This repository contains the parameters used to produce the results in the paper
 
 ## Retrieval
 
-| Parameter | Value |
-|---|---|
-| Vector store | ChromaDB |
-| Similarity metric | cosine |
-| Top-k | 4 |
+| Parameter | Value          |
+|---|----------------|
+| Vector store | ChromaDB 1.3.5 |
+| Similarity metric | cosine         |
+| Top-k | 4              |
 
 ## Evaluation (RAGAs)
 
@@ -79,8 +79,26 @@ The thesis corpus is restricted and cannot be released. The QA set structure is 
 - Faithfulness scores failed in 44% of evaluation cases. Failures distribute approximately evenly across chunkers (42–47%); see paper Section IV for the methodological treatment.
 - The pipeline was run once (390 measurements total). No averaging across seeds was performed.
 
-## Citation
+## Links
+**ChromaDB**
+https://www.trychroma.com/
 
+**llama3.2:3b**
+https://ollama.com/library/llama3.2
+
+**deepseek-r1:8b**
+https://ollama.com/library/deepseek-r1
+
+**all-MiniLM-L6-v2**
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
+**RAGAs**
+https://github.com/explodinggradients/ragas
+
+**ollama**
+https://ollama.com/
+
+## Citation
 If you reference this configuration or build on this work, please cite the paper:
 
 ```bibtex
