@@ -101,6 +101,4 @@ https://ollama.com/
 ## Citation
 If you reference this configuration or build on this work, please cite the paper:
 
-```bibtex
-[TODO: add entry once camera-ready DOI is assigned]
-```
+Preprint: https://arxiv.org/abs/2607.01852
