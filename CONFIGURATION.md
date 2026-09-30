@@ -100,5 +100,4 @@ https://ollama.com/
 
 ## Citation
 If you reference this configuration or build on this work, please cite the paper:
-
-Preprint: https://arxiv.org/abs/2607.01852
+https://ieeexplore.ieee.org/document/11700108
